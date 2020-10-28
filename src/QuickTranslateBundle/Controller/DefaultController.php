@@ -8,7 +8,7 @@
  *
  */
 
-namespace Pdchaudhary\QuickTranslateBundle\Controller;
+namespace Asioso\QuickTranslateBundle\Controller;
 
 use Pimcore\Controller\FrontendController;
 use Symfony\Component\HttpFoundation\JsonResponse;
