@@ -1,5 +1,5 @@
 {
-  "name": "pdchaudhary/pimcore-quicktranslate-module-screeningeagle",
+  "name": "asioso/pimcore-quicktranslate-module",
   "type": "pimcore-bundle",
   "license": "GPL-3.0-or-later",
   "description": "With this Bundle you can automatically translate your content via DeepL Interface.",
